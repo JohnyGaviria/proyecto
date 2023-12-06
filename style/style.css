@@ -1,0 +1,12 @@
+body{
+    background: url(../images/fondo\ el\ arte\ de\ la\ guerra.png);
+}
+
+.logo{
+    width: 5%;
+    height: 5%;
+}
+
+.title{
+    color: rgba(0, 0, 0, 0.962);
+}
